@@ -1,0 +1,29 @@
+{
+  "name": "northumbria-verify",
+  "version": "1.0.0",
+  "description": "Verify Northumbria emails.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakemakesstuff/northumbria-verify.git"
+  },
+  "keywords": [
+    "discord",
+    "college"
+  ],
+  "author": "Jake Gealer",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jakemakesstuff/northumbria-verify/issues"
+  },
+  "homepage": "https://github.com/jakemakesstuff/northumbria-verify#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "dotenv": "^8.2.0",
+    "mailgun-js": "^0.22.0",
+    "uuid": "^7.0.2"
+  }
+}
